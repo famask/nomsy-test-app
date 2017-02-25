@@ -57,3 +57,5 @@ gem 'kaminari', '~> 1.0', '>= 1.0.1'
 gem 'simple_form'
 gem "font-awesome-rails"
 gem 'devise'
+gem 'geocoder'
+gem "figaro"
